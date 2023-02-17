@@ -1,0 +1,21 @@
+/home/jan/Documents/OS_course/infos-coursework/infos/oot/sched-mq.o: \
+ /home/jan/Documents/OS_course/infos-coursework/infos/oot/sched-mq.cpp \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/kernel/sched.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/kernel/subsystem.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/define.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/assert.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/kernel/sched-entity.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/util/time.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/util/ratio.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/util/event.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/util/wakequeue.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/util/list.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/util/support.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/util/string.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/kernel/log.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/util/lock.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/arch/x86/irq.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/kernel/irq.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/kernel/thread.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/infos/kernel/thread-context.h \
+ /home/jan/Documents/OS_course/infos-coursework/infos/include/arch/x86/context.h
